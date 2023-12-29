@@ -1,3 +1,3 @@
-# A Fitness app made with reactjs and material UI
+# Modern fitness app made with React.js and material UI
 
 ![Fitness App](public/Demo.png)
